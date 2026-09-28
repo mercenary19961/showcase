@@ -7,6 +7,8 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/zaid-sabbagh-6a7287227/">LinkedIn</a> ·
+  <a href="mailto:sabbaghzaid88@gmail.com">sabbaghzaid88@gmail.com</a> ·
   <a href="https://professional-portfolio-v2.vercel.app">Portfolio</a> ·
   <a href="https://github.com/mercenary19961">GitHub</a>
 </p>
