@@ -35,7 +35,7 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 🔗 **Live:** [retab.com.sa](https://retab.com.sa) · 📅 2026
 
-<img src="images/retab/desktop.jpg" alt="Retab Stores homepage on desktop" width="100%" />
+<img src="images/retab/hero.gif" alt="Retab Stores homepage banner carousel" width="100%" />
 
 <p>
   <img src="images/retab/inner.jpg" alt="Retab Stores product catalogue" width="74%" />
@@ -87,7 +87,7 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 🔗 **Live:** [nuorsteel-website-production.up.railway.app](https://nuorsteel-website-production.up.railway.app) · 📅 2026
 
-<img src="images/nuor-steel/desktop.jpg" alt="Nuor Steel homepage on desktop" width="100%" />
+<img src="images/nuor-steel/hero.webp" alt="Nuor Steel hero with the drone video and typing headline" width="100%" />
 
 <p>
   <img src="images/nuor-steel/inner.jpg" alt="Nuor Steel products page" width="74%" />
