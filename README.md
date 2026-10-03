@@ -22,7 +22,7 @@ The source code for these projects is private, because it belongs to my clients.
 | [Retab Stores](#retab-stores) | E-commerce store for premium Saudi dates | [retab.com.sa](https://retab.com.sa) |
 | [Sky Amman](#sky-amman) | Real estate development company website with CMS | [skyamman.com](https://www.skyamman.com) |
 | [Nuor Steel](#nuor-steel) | Corporate website for a Saudi steel manufacturer | [nuorsteel.com](https://nuorsteel.com) |
-| [HardRock](#hardrock) | Digital marketing agency website | [hardrock-co.com](https://www.hardrock-co.com) |
+| [HardRock](#hardrock) | Digital marketing agency website | Archived, [watch the walkthrough](#hardrock) |
 
 **Shared stack:** Laravel 12 · Inertia.js · React · TypeScript · Tailwind CSS · MySQL · deployed on Railway behind Cloudflare, with server-side rendering for SEO.
 
@@ -110,8 +110,7 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 **Website for a digital marketing and AI solutions agency in Jordan.**
 
-🔗 **Live:** [hardrock-co.com](https://www.hardrock-co.com) · 📅 2026
-
+🗄️ **Archived:** the company has closed and the site is no longer online · 📅 2026
 
 <img src="images/hardrock/hero.gif" alt="HardRock hero with the animated frog" width="100%" />
 
@@ -119,6 +118,8 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
   <img src="images/hardrock/inner.jpg" alt="HardRock services page" width="74%" />
   <img src="images/hardrock/mobile.jpg" alt="HardRock homepage on mobile" width="23%" />
 </p>
+
+🎬 **Walkthrough of the live site**, recorded before it went offline: the animated hero, the service sections with their 3D visuals, the Software & AI page, and the full Arabic version.
 
 https://github.com/user-attachments/assets/2ba23fc2-6814-427d-ab58-c0cb38981a5d
 
