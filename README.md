@@ -21,7 +21,7 @@ The source code for these projects is private, because it belongs to my clients.
 |---|---|---|
 | [Retab Stores](#retab-stores) | E-commerce store for premium Saudi dates | [retab.com.sa](https://retab.com.sa) |
 | [Sky Amman](#sky-amman) | Real estate development company website with CMS | [skyamman.com](https://www.skyamman.com) |
-| [Nuor Steel](#nuor-steel) | Corporate website for a Saudi steel manufacturer | [nuorsteel.com](https://nuorsteel.com) |
+| [Nuor Steel](#nuor-steel) | Corporate website for a Saudi steel manufacturer | [nuorsteel-website-production.up.railway.app](https://nuorsteel-website-production.up.railway.app) |
 | [HardRock](#hardrock) | Digital marketing agency website | Archived, [watch the walkthrough](#hardrock) |
 
 **Shared stack:** Laravel 12 · Inertia.js · React · TypeScript · Tailwind CSS · MySQL · deployed on Railway behind Cloudflare, with server-side rendering for SEO.
@@ -85,7 +85,7 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 **Corporate website for a Saudi manufacturer of steel rebar and billets.**
 
-🔗 **Live:** [nuorsteel.com](https://nuorsteel.com) · 📅 2026
+🔗 **Live:** [nuorsteel-website-production.up.railway.app](https://nuorsteel-website-production.up.railway.app) · 📅 2026
 
 <img src="images/nuor-steel/desktop.jpg" alt="Nuor Steel homepage on desktop" width="100%" />
 
