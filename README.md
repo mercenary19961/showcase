@@ -69,6 +69,8 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
   <img src="images/sky-amman/mobile.jpg" alt="Sky Amman homepage on mobile" width="23%" />
 </p>
 
+<img src="images/sky-amman/footer.webp" alt="Sky Amman footer with clouds drifting past the villa" width="100%" />
+
 **Highlights**
 - Property listings with category filters and detail pages that feed straight into enquiries
 - Bilingual English and Arabic site with a manual language switch
