@@ -42,6 +42,10 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
   <img src="images/retab/mobile.jpg" alt="Retab Stores homepage on mobile" width="23%" />
 </p>
 
+🎬 **Walkthrough of the live store:** the Arabic homepage, the shop, a product page, and the switch to English.
+
+https://github.com/user-attachments/assets/7e5c5bfc-7f1a-47ef-b50c-c26b0058b315
+
 **Highlights**
 - Arabic-first storefront (right to left) with an instant switch to English
 - Checkout with card payments (mada, Visa, Mastercard, Apple Pay), buy now pay later through Tamara, and bank transfer
@@ -71,6 +75,10 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 <img src="images/sky-amman/footer.webp" alt="Sky Amman footer with clouds drifting past the villa" width="100%" />
 
+🎬 **Walkthrough of the live site:** the homepage, the properties list, a villa detail page, and the Arabic version.
+
+https://github.com/user-attachments/assets/75e43ce8-c5ad-4714-8ade-fe653a489ad0
+
 **Highlights**
 - Property listings with category filters and detail pages that feed straight into enquiries
 - Bilingual English and Arabic site with a manual language switch
@@ -95,6 +103,10 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
   <img src="images/nuor-steel/inner.jpg" alt="Nuor Steel products page" width="74%" />
   <img src="images/nuor-steel/mobile.jpg" alt="Nuor Steel homepage on mobile" width="23%" />
 </p>
+
+🎬 **Walkthrough of the live site:** the homepage and its interactive Core Values section, the products page, the quality page, and the Arabic version.
+
+https://github.com/user-attachments/assets/b70fcde4-66e1-4b36-9c56-05ef52ed5915
 
 **Highlights**
 - Product pages for rebar and billets with downloadable specification sheets
