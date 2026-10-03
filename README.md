@@ -112,9 +112,13 @@ Arabic first, with a full English version, serving customers across Saudi Arabia
 
 🔗 **Live:** [hardrock-co.com](https://www.hardrock-co.com) · 📅 2026
 
-<img src="images/hardrock/desktop.jpg" alt="HardRock homepage on desktop" width="100%" />
+
+
+https://github.com/user-attachments/assets/2ba23fc2-6814-427d-ab58-c0cb38981a5d
+
 
 <p>
+
   <img src="images/hardrock/inner.jpg" alt="HardRock services page" width="74%" />
   <img src="images/hardrock/mobile.jpg" alt="HardRock homepage on mobile" width="23%" />
 </p>
