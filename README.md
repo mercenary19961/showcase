@@ -73,8 +73,6 @@ https://github.com/user-attachments/assets/7e5c5bfc-7f1a-47ef-b50c-c26b0058b315
   <img src="images/sky-amman/mobile.jpg" alt="Sky Amman homepage on mobile" width="23%" />
 </p>
 
-<img src="images/sky-amman/footer.webp" alt="Sky Amman footer with clouds drifting past the villa" width="100%" />
-
 🎬 **Walkthrough of the live site:** the homepage, the properties list, a villa detail page, and the Arabic version.
 
 https://github.com/user-attachments/assets/75e43ce8-c5ad-4714-8ade-fe653a489ad0
